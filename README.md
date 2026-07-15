@@ -7,12 +7,6 @@ I’m a 17-year-old full-stack developer and International Baccalaureate (IBDP) 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=kostis4563&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kostis4563&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=kostis4563&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 # 🎛️ Operating System
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
