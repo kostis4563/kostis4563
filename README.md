@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there, I'm Blxr!
 I’m a 17-year-old full-stack developer and International Baccalaureate (IBDP) student. I build modern web applications using React, Next.js, Tailwind CSS, Python, and JavaScript, while working on freelance projects focused on real world products. Interested in Software Engineering and Computer Science, with the goal of studying at a university in the Netherlands or Germany.
 <br>
 
