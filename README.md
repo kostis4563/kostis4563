@@ -7,10 +7,14 @@ I’m a 17-year-old full-stack developer and International Baccalaureate (IBDP) 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=kostis4563&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
+# 💻 IDEs/Editors
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 # 🎛️ Operating System
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MacOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=macos,windows" />
+</p>
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/kostno) 
 
