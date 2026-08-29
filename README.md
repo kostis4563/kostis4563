@@ -38,28 +38,15 @@
 
 <div align="center">
 
-**`frontend`**
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark&perline=7" alt="frontend" />
-
-**`backend & data`**
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,swift,mysql,firebase&theme=dark&perline=6" alt="backend" />
-
-**`tooling`**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel,figma&theme=dark&perline=6" alt="tools" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,nodejs,python,swift,java,mysql,firebase,git,github,vscode&theme=dark&perline=8" alt="stack" />
 
 </div>
 
-## 📊 Telemetry
+## 📊 Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kostis4563&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&rank_icon=github&include_all_commits=true" height="165" alt="stats" />
-<img src="https://streak-stats.demolab.com?user=kostis4563&theme=github-dark-blue&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165" alt="streak" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kostis4563&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58a6ff&langs_count=8" height="150" alt="languages" />
+<img src="https://streak-stats.demolab.com?user=kostis4563&theme=github-dark-blue&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="200" alt="contribution stats" />
 
 </div>
 
@@ -80,7 +67,7 @@
 
 <div align="center">
 
-**you scrolled this far — might as well follow 👇**
+**you scrolled this far might as well follow 👇**
 
 <br/>
 
