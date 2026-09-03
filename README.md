@@ -1,76 +1,38 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=BLXR&fontColor=ffffff&fontSize=72&fontAlignY=32&desc=full-stack%20engineer%20%C2%B7%20athens%2C%20greece&descAlignY=52&descSize=16&animation=fadeIn" width="100%" alt="header" />
+<div align="center">
+
+# Hi, I'm Kostis 👋
+
+**Full-stack engineer building security tools and useful web experiences.**
+
+Athens, Greece · [blxr.net](https://blxr.net)
+
+![Profile views](https://komarev.com/ghpvc/?username=kostis4563&label=Profile%20views&color=1f6feb&style=flat-square)
+</div>
+
+## About me
+
+- Building security tooling, web apps, and native macOS software
+- Currently working on **Async Anti-Cheat** and **Web Scanner**
+- IBDP student focused on Computer Science
+
+## Stack
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=%3E+whoami;%3E+full-stack+engineer+%F0%9F%A7%A9;%3E+react+%E2%80%A2+next.js+%E2%80%A2+node+%E2%80%A2+python+%E2%9A%A1;%3E+swift+%2B+java+on+the+side+%F0%9F%93%B1;%3E+currently+shipping+Async+%F0%9F%9A%80" alt="typing" />
-
-<br/>
-
-[![Status](https://img.shields.io/badge/⚡_status-shipping-2ea043?style=for-the-badge&labelColor=0d1117)](#)
-[![IBDP](https://img.shields.io/badge/🎓_IBDP-student-db6d28?style=for-the-badge&labelColor=0d1117)](#)
-[![Education](https://img.shields.io/badge/📚_studying-Computer_Science-8957e5?style=for-the-badge&labelColor=0d1117)](#)
-
-![Greek](https://img.shields.io/badge/🇬🇷_ελληνικά-native-1f6feb?style=flat-square&labelColor=0d1117)
-![English](https://img.shields.io/badge/🇬🇧_english-fluent-1f6feb?style=flat-square&labelColor=0d1117)
-![French](https://img.shields.io/badge/🇫🇷_français-B2-1f6feb?style=flat-square&labelColor=0d1117)
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,swift,mysql,git&theme=dark" alt="TypeScript, React, Next.js, Node.js, Python, Swift, MySQL, and Git" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:58a6ff&height=3&section=header" width="100%" alt="" />
-
-## 🧬 whoami
-
-```json
-{
-  "alias": "BLXR",
-  "studio": "Amitista",
-  "focus": ["Security tooling", "Web apps", "Cybersecurity"],
-
-  "building": {
-    "async-anticheat": "forensic anti-cheat scanner for FiveM servers",
-    "web-scanner":     "macOS app that audits sites for security weaknesses",
-    "amitista":        "amitista.com · @amitista/shield"
-  }
-}
-```
-
-## ⚙️ Stack
+## GitHub stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,nodejs,python,swift,java,mysql,firebase,git,github,vscode&theme=dark&perline=8" alt="stack" />
+<img src="https://streak-stats.demolab.com?user=kostis4563&theme=github-dark-blue&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="200" alt="Contribution stats" />
 
 </div>
 
-## 📊 Stats
+## Connect
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kostis4563&theme=github-dark-blue&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="200" alt="contribution stats" />
-
-</div>
-
-## 🌌 Elsewhere
-
-<div align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/981607036192190534?theme=dark&bg=0d1117&borderRadius=12px&idleMessage=probably%20compiling%20something%20%F0%9F%92%BB)](https://discord.com/users/981607036192190534)
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-kostis4563-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/kostis4563)
-[![Discord](https://img.shields.io/badge/Discord-BLXR-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/981607036192190534)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:58a6ff&height=3&section=header" width="100%" alt="" />
-
-<div align="center">
-
-**you scrolled this far might as well follow 👇**
-
-<br/>
-
-[![Follow @kostis4563](https://img.shields.io/badge/follow_@kostis4563-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22)](https://github.com/kostis4563)
-
-</div>
+[![Website](https://img.shields.io/badge/Website-blxr.net-1f6feb?style=flat-square&logo=safari&logoColor=white)](https://blxr.net)
+[![GitHub](https://img.shields.io/badge/GitHub-kostis4563-181717?style=flat-square&logo=github)](https://github.com/kostis4563)
+[![Discord](https://img.shields.io/static/v1?label=Discord&message=blxr__&color=5865F2&style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/981607036192190534)
